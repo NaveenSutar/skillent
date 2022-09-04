@@ -1,0 +1,10 @@
+Play Store Credentials
+Link : https://accounts.google.com/signin/v2/identifier?service=androiddeveloper&passive=true&continue=https%3A%2F%2Fplay.google.com%2Fconsole%2Fdeveloper%2F&_ga=2.141943346.1064798897.1633544309-482123644.1633544309&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+Email : itcomtechllc@gmail.com
+Password : C0mt6ch11C!
+
+App Store Credentials
+Link : https://appstoreconnect.apple.com/login
+Email : dev@incubehub.com
+Email : team@incubehub.com
+Password : !ncub6Hub
